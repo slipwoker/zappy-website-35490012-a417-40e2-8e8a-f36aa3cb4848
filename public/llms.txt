@@ -1,0 +1,71 @@
+# l'écoute — Generative Engine Optimization Map
+
+> A compassionate support and listening service designed for people who need someone to talk to. The service focuses on providing a safe, empathetic space where individuals can feel heard and supported during difficult times. The brand centers around warmth, care, and human connection.
+
+---
+
+## Pages
+
+### Accueil
+https://l-coute-35490012.zappy5.app
+Un espace bienveillant pour parler de votre mal-être. Nos écoutants vous soutiennent avec empathie face à la dépression. Contactez-nous pour un soutien immédiat.
+
+### Merci | l'écoute
+https://l-coute-35490012.zappy5.app/thank-you
+l'écoute - Merci | l'écoute
+
+## Legal & Policy
+
+### Privacy Policy
+https://l-coute-35490012.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://l-coute-35490012.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://l-coute-35490012.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://l-coute-35490012.zappy5.app
+- Endpoint: https://l-coute-35490012.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About l'écoute
+A compassionate support and listening service designed for people who need someone to talk to. The service focuses on providing a safe, empathetic space where individuals can feel heard and supported during difficult times. The brand centers around warmth, care, and human connection.
+
+## Target Audience
+- people who need support and someone to listen to them
+- Emotionally Vulnerable Adults
+- College Students Under Stress
+- Caregivers Seeking Relief
+
+## Industry
+Mental Health & Emotional Support
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://l-coute-35490012.zappy5.app/sitemap.xml
+- Robots: https://l-coute-35490012.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://l-coute-35490012.zappy5.app/llms-full.txt
