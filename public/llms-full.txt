@@ -2,13 +2,13 @@
 
 A compassionate support and listening service designed for people who need someone to talk to. The service focuses on providing a safe, empathetic space where individuals can feel heard and supported during difficult times. The brand centers around warmth, care, and human connection.
 
-Source: https://l-coute-35490012.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Trouvez du réconfort dès maintenant — l&#39;écoute
 
-URL: https://l-coute-35490012.zappy5.app
+URL: https://example.com
 Description: Un espace bienveillant pour parler de votre mal-être. Nos écoutants vous soutiennent avec empathie face à la dépression. Contactez-nous pour un soutien immédiat.
 
 Trouvez du réconfort dès maintenant — l'écoute
@@ -584,7 +584,7 @@ Généré par Zappy
 
 ## Privacy Policy
 
-URL: https://l-coute-35490012.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -847,7 +847,7 @@ Généré par Zappy
 
 ## Accessibility Statement
 
-URL: https://l-coute-35490012.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -1119,7 +1119,7 @@ Généré par Zappy
 
 ## Terms & Conditions
 
-URL: https://l-coute-35490012.zappy5.app/terms
+URL: https://example.com/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
@@ -1410,7 +1410,7 @@ Généré par Zappy
 
 ## Merci | l'écoute
 
-URL: https://l-coute-35490012.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: l'écoute - Merci | l'écoute
 
 Merci | l'écoute
